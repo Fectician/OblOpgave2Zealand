@@ -1,0 +1,11 @@
+/* Woah, look at all this external CSS!
+Kode af Nicolas Lauridsen, Datamatiker 3b Zealand Erhvervsakademi.*/
+p.top {
+    padding-top: 0.1%;
+}
+div.jumbotron {
+    background: transparent;
+    /*Jumbotron had too much padding, we replace with this instead:*/
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
